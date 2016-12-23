@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{E328357C-1A2B-4D19-8815-F9AD703F3A28}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Prototype1ControllerV1._1</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Prototype1Controller\App.config" />
+    <None Include="Prototype1Controller\bin\Debug\Prototype1Controller.exe.config" />
+    <None Include="Prototype1Controller\bin\Debug\Prototype1Controller.vshost.exe.config" />
+    <None Include="Prototype1Controller\bin\Debug\Prototype1Controller.vshost.exe.manifest" />
+    <None Include="Prototype1Controller\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Prototype1Controller\obj\Debug\Prototype1Controller.csprojResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Prototype1Controller\BluetoothManager.cs" />
+    <Compile Include="Prototype1Controller\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="Prototype1Controller\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="Prototype1Controller\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Prototype1Controller\Program.cs" />
+    <Compile Include="Prototype1Controller\Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Prototype1Controller\bin\Debug\Prototype1Controller.exe" />
+    <Content Include="Prototype1Controller\bin\Debug\Prototype1Controller.pdb" />
+    <Content Include="Prototype1Controller\bin\Debug\Prototype1Controller.vshost.exe" />
+    <Content Include="Prototype1Controller\obj\Debug\Prototype1Controller.csproj.FileListAbsolute.txt" />
+    <Content Include="Prototype1Controller\obj\Debug\Prototype1Controller.exe" />
+    <Content Include="Prototype1Controller\obj\Debug\Prototype1Controller.pdb" />
+    <Content Include="Prototype1Controller\Prototype1Controller.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".vs\" />
+    <Folder Include="Prototype1Controller\bin\Release\" />
+    <Folder Include="Prototype1Controller\obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
