@@ -1,0 +1,12 @@
+<preset>
+<up>TESTUP</up>
+<down>TESTDOWN</down>
+<right>TESTRIGHT</right>
+<left>TESTLEFT</left>
+<r_shoulder>TESTRSHOULDER</r_shoulder>
+<l_shoulder>TESTLSHOULDER</l_shoulder>
+<r_trigger>TESTRTRIGGER</r_trigger>
+<l_trigger>TESTLTRIGGER</l_trigger>
+<back>TESTBACK</back>
+<start>TESTSTART</start>
+</preset>
