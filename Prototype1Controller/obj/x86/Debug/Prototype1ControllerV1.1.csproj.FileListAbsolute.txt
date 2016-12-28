@@ -1,6 +1,0 @@
-C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Prototype1Controller\bin\Debug\ConsoleApplication.exe.config
-C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Prototype1Controller\bin\Debug\ConsoleApplication.exe
-C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Prototype1Controller\bin\Debug\ConsoleApplication.pdb
-C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Prototype1Controller\obj\x86\Debug\Prototype1ControllerV1.1.csprojResolveAssemblyReference.cache
-C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Prototype1Controller\obj\x86\Debug\ConsoleApplication.exe
-C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Prototype1Controller\obj\x86\Debug\ConsoleApplication.pdb
