@@ -6,20 +6,13 @@ namespace Prototype1Controller
 {
     public class BluetoothManager
     {
-
-
-
-
-
-
-
         SerialPort BTPort;
         Buffer input_buffer;
         Buffer output_buffer;
         public event EventHandler BTInputReceived;
         Thread connection_handler;
         bool connected;
-        int last_received;
+        DateTime last_received;
 
 
         public BluetoothManager(Buffer in_buff, Buffer out_buff)                
@@ -50,7 +43,7 @@ namespace Prototype1Controller
                 throw new ArgumentException("Cannot connect to Teo2, retry later");
             }
 
-            last_received = DateTime.Now.Second;
+            last_received = DateTime.Now;
 
             BTPort.DataReceived += new SerialDataReceivedEventHandler(DataReceivedHandler);
             BTInputReceived += p.BTInputReceivedHandler;
@@ -121,7 +114,7 @@ namespace Prototype1Controller
             }
 
             // Update last_received value everytime a message is received        
-            last_received = DateTime.Now.Second;                    
+            last_received = DateTime.Now;                    
         }
 
         protected virtual void OnBTInputReceived(EventArgs e)
@@ -164,7 +157,7 @@ namespace Prototype1Controller
                 return false;
             }
 
-            last_received = DateTime.Now.Second;
+            last_received = DateTime.Now;
             BTPort.DiscardInBuffer();                             // Avoid to read the start message again later
             Console.WriteLine("Connected to port: " + port_name);
             
@@ -178,17 +171,18 @@ namespace Prototype1Controller
         {
             while (true)
             {
-                if (Math.Abs(DateTime.Now.Second - last_received) > int.Parse(Program.config["reconnection_time"]))
+                if (DateTime.Now.Subtract(last_received).Seconds > int.Parse(Program.config["reconnection_time"]))
                 {
                     Console.WriteLine("BTM: Lost connection with Teo2");
                     connected = false;
 
                     BTPort.Close();
+                    Thread.Sleep(int.Parse(Program.config["reconnection_time"]) * 5000);                // Give PC and Teo2 time to reconnect
                     connected = Connect(BTPort.PortName);
                     if (!connected)
-                    {
                         throw new ArgumentException("BTM: Cannot connect to Teo2, retry later");
-                    }
+                    else
+                        BTPort.DataReceived += new SerialDataReceivedEventHandler(DataReceivedHandler);
                 }
             }
         }
