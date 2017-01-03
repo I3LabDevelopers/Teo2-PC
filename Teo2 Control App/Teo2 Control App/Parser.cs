@@ -67,18 +67,66 @@ namespace Prototype1Controller
                 {
                     case "A":
                         SetMood("scared");
+                        Program.sound_player.SoundLocation = Program.config["scared"];
+                        Program.sound_player.PlaySync();
                         break;
 
                     case "B":
                         SetMood("angry");
+                        Program.sound_player.SoundLocation = Program.config["angry"];
+                        Program.sound_player.PlaySync();
                         break;
 
                     case "X":
                         SetMood("sad");
+                        Program.sound_player.SoundLocation = Program.config["sad"];
+                        Program.sound_player.PlaySync();
                         break;
 
                     case "Y":
                         SetMood("happy");
+                        Program.sound_player.SoundLocation = Program.config["happy"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "UP":
+                        Program.sound_player.SoundLocation = Program.preset["up"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "DOWN":
+                        Program.sound_player.SoundLocation = Program.preset["down"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "LEFT":
+                        Program.sound_player.SoundLocation = Program.preset["left"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "RIGHT":
+                        Program.sound_player.SoundLocation = Program.preset["right"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "RB":
+                        Program.sound_player.SoundLocation = Program.preset["r_shoulder"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "LB":
+                        Program.sound_player.SoundLocation = Program.preset["l_shoulder"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "RT":
+                        Program.sound_player.SoundLocation = Program.preset["r_trigger"];
+                        Program.sound_player.PlaySync();
+                        break;
+
+                    case "LT":
+                        Program.sound_player.SoundLocation = Program.preset["l_trigger"];
+                        Program.sound_player.PlaySync();
                         break;
 
                     default:

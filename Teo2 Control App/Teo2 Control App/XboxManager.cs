@@ -66,9 +66,10 @@ namespace Prototype1Controller
         }
         private void XBInputHandler()
         {
-            bool last_A = false  , last_B = false, last_X = false, last_Y = false, last_UA = false, 
-                last_LArrow = false, last_DArrow = false, last_RArrow = false, last_LB = false,
-                last_LT = false, last_RB = false, last_RT = false, last_BK = false, last_ST = false;
+            bool last_A = false  , last_B = false, last_X = false, last_Y = false, 
+                 last_UArrow = false, last_LArrow = false, last_DArrow = false, last_RArrow = false, 
+                 last_LB = false, last_LT = false, last_RB = false, last_RT = false, 
+                 last_BK = false, last_ST = false;
 
             double last_LS_x = 50, last_LS_y = 50, last_RS_x = 50; //, last_RS_y = 50; RS_Y unused.
 
@@ -112,6 +113,69 @@ namespace Prototype1Controller
                     }
                     last_Y = xbc.ButtonYPressed;
 
+                    if (xbc.ButtonUpPressed && !last_UArrow)
+                    {
+                        input_buffer.Push("UP");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_UArrow = xbc.ButtonUpPressed;
+
+                    if (xbc.ButtonDownPressed && !last_DArrow)
+                    {
+                        input_buffer.Push("DOWN");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_DArrow = xbc.ButtonDownPressed;
+
+                    if (xbc.ButtonLeftPressed && !last_LArrow)
+                    {
+                        input_buffer.Push("LEFT");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_LArrow = xbc.ButtonLeftPressed;
+
+                    if (xbc.ButtonRightPressed && !last_RArrow)
+                    {
+                        input_buffer.Push("RIGHT");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_RArrow = xbc.ButtonRightPressed;
+
+                    if (xbc.ButtonShoulderRightPressed && !last_RB)
+                    {
+                        input_buffer.Push("RB");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_RB = xbc.ButtonShoulderRightPressed;
+
+                    if (xbc.ButtonShoulderLeftPressed && !last_LB)
+                    {
+                        input_buffer.Push("LB");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_LB = xbc.ButtonShoulderLeftPressed;
+
+                    if (xbc.TriggerRightPressed && !last_RT)
+                    {
+                        input_buffer.Push("RT");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_RT = xbc.TriggerRightPressed;
+
+                    if (xbc.TriggerLeftPressed && !last_LT)
+                    {
+                        input_buffer.Push("LT");
+                        OnXBInputReceived(EventArgs.Empty);
+
+                    }
+                    last_LT = xbc.TriggerLeftPressed;
 
                     // Listening to Lstick, we map 17 points positioned in two circonference centered in 
                     // the analog value (50,50) (See MapAnalog method for more details).

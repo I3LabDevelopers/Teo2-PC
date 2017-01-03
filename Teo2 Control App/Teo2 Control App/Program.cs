@@ -1,5 +1,6 @@
 ﻿using BrandonPotter.XBox;
 using System;
+using System.Media;
 using System.Collections.Generic;
 using System.IO;
 using System.IO.Ports;
@@ -11,10 +12,13 @@ namespace Prototype1Controller
 {
     class Program
     {
+        public static SoundPlayer sound_player;
         public static Dictionary<string, string> config;
+        public static Dictionary<string, string> preset;
+
         static void Main(string[] args)
         {
-
+            sound_player = new System.Media.SoundPlayer();
             AppDomain currentDomain = AppDomain.CurrentDomain;
             currentDomain.UnhandledException += new UnhandledExceptionEventHandler(GenericHandler);
                         
@@ -45,7 +49,7 @@ namespace Prototype1Controller
             
             Parser parser = new Parser(BTinput, XBinput, output);
 
-            Dictionary<string, string> preset = new Dictionary<string, string>();
+            preset = new Dictionary<string, string>();
             try
             {
                 preset = ConvertFromXML(config["selected_preset"]);
