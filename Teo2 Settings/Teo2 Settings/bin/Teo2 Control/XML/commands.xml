@@ -1,0 +1,11 @@
+<!-- List of command that can be mapped to the Xbox controller -->
+<commands>
+  <command name="Ciao" >voice/Ciao.WAV</command>
+  <command name="Giochi con me?" >voice/GiochiConMe.WAV</command>
+  <command name="Bravo" >voice/Bravo.WAV</command>
+  <command name="Grande" >voice/Grande.WAV</command>
+  <command name="Risata" >voice/Risata.WAV</command>
+  <command name="Pianto" >voice/Pianto.WAV</command>
+  <command name="No" >voice/No.WAV</command>
+  <command name="Si" >voice/Si.WAV</command>
+</commands>
