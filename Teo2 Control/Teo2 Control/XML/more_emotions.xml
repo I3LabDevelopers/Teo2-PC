@@ -1,12 +1,12 @@
 <preset>
-  <up>voice/Ciao.WAV</up>
-  <down>voice/GiochiConMe.WAV</down>
-  <right>voice/Bravo.WAV</right>
-  <left>voice/Grande.WAV</left>
-  <r_shoulder>voice/Pianto.WAV</r_shoulder>
-  <l_shoulder>voice/Risata.WAV</l_shoulder>
-  <r_trigger>voice/No.WAV</r_trigger>
-  <l_trigger>voice/Si.WAV</l_trigger>
+  <up>voice/CheSorpresa.wav</up>
+  <down>voice/Noia.wav</down>
+  <right>voice/Uff.wav</right>
+  <left>voice/Aiuto.wav</left>
+  <r_shoulder>voice/Pianto.wav</r_shoulder>
+  <l_shoulder>voice/Risata.wav</l_shoulder>
+  <r_trigger>voice/No.wav</r_trigger>
+  <l_trigger>voice/Si.wav</l_trigger>
   <back>TESTBACK</back>
   <start>TESTSTART</start>
 </preset>

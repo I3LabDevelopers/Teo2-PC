@@ -5,8 +5,8 @@
 	<ready_message>ready</ready_message>
 	<reconnection_time>5</reconnection_time>
 	<motion_block_timeout>3</motion_block_timeout>
-	<happy>voice/Felice.WAV</happy>
-	<sad>voice/Triste.WAV</sad>
-	<angry>voice/Arrabbiato.WAV</angry>
-	<scared>voice/Spaventato.WAV</scared>
+	<happy>voice/Felice.wav</happy>
+	<sad>voice/Triste.wav</sad>
+	<angry>voice/Arrabbiato.wav</angry>
+	<scared>voice/Spaventato.wav</scared>
 </config>
