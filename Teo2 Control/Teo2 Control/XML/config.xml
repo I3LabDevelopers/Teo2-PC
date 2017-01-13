@@ -1,0 +1,12 @@
+<!-- Configuration variables which are independent from the selected preset -->
+<config>
+	<selected_preset>default.xml</selected_preset>
+	<diagonal_mapping>true</diagonal_mapping>			<!-- HAS to be true or false   -->
+	<ready_message>ready</ready_message>
+	<reconnection_time>5</reconnection_time>
+	<motion_block_timeout>3</motion_block_timeout>
+	<happy>voice/Felice.wav</happy>
+	<sad>voice/Triste.wav</sad>
+	<angry>voice/Arrabbiato.wav</angry>
+	<scared>voice/Spaventato.wav</scared>
+</config>

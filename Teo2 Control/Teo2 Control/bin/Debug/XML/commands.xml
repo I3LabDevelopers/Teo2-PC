@@ -1,0 +1,34 @@
+<!-- List of command that can be mapped to the Xbox controller -->
+<commands>
+  <command name="Aiuto" >voice/Aiuto.wav</command>
+  <command name="A presto" >voice/APresto.wav</command>
+  <command name="Arrabbiato" >voice/Arrabbiato.wav</command>
+  <command name="Bravo" >voice/Bravo.wav</command>
+  <command name="C'è qualcuno?" >voice/CeQualcuno.wav</command>
+  <command name="Che sorpresa" >voice/CheSorpresa.wav</command>
+  <command name="Ciao" >voice/Ciao.wav</command>
+  <command name="Ciao sono Teo" >voice/CiaoSonoTeo.wav</command>
+  <command name="Come ti chiami?" >voice/ComeTiChiami.wav</command>
+  <command name="Dove sei?" >voice/DoveSei.wav</command>
+  <command name="Felice" >voice/Felice.wav</command>
+  <command name="Giochi con me?" >voice/GiochiConMe.wav</command>
+  <command name="Grande" >voice/Grande.wav</command>
+  <command name="Grazie" >voice/Grazie.wav</command>
+  <command name="Mi dispiace" >voice/MiDispiace.wav</command>
+  <command name="Mi racconti una storia?" >voice/MiRaccontiUnaStoria.wav</command>
+  <command name="No" >voice/No.wav</command>
+  <command name="Noia" >voice/Noia.wav</command>
+  <command name="Ok" >voice/Ok.wav</command>
+  <command name="Perche?" >voice/Perche.wav</command>
+  <command name="Piacere di conoscerti" >voice/PiacereDiConoscerti.wav</command>
+  <command name="Pianto" >voice/Pianto.wav</command>
+  <command name="Prego" >voice/Prego.wav</command>
+  <command name="Risata" >voice/Risata.wav</command>
+  <command name="Si" >voice/Si.wav</command>
+  <command name="Sono molto arrabbiato" >voice/SonoMoltoArrabbiato.wav</command>
+  <command name="Sono molto felice" >voice/SonoMoltoFelice.wav</command>
+  <command name="Spaventato" >voice/Spaventato.wav</command>
+  <command name="Triste" >voice/Triste.wav</command>
+  <command name="Uff" >voice/Uff.wav</command>
+  <command name="Wow" >voice/Wow.wav</command>
+</commands>

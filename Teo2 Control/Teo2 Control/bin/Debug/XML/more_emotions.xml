@@ -1,0 +1,12 @@
+<preset>
+  <up>voice/CheSorpresa.wav</up>
+  <down>voice/Noia.wav</down>
+  <right>voice/Uff.wav</right>
+  <left>voice/Aiuto.wav</left>
+  <r_shoulder>voice/Pianto.wav</r_shoulder>
+  <l_shoulder>voice/Risata.wav</l_shoulder>
+  <r_trigger>voice/No.wav</r_trigger>
+  <l_trigger>voice/Si.wav</l_trigger>
+  <back>TESTBACK</back>
+  <start>TESTSTART</start>
+</preset>
