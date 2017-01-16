@@ -1,0 +1,25 @@
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\Teo2 Control App.exe.config
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\obj\Debug\Teo2 Control App.csprojResolveAssemblyReference.cache
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\Teo2 Control App.exe
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\Teo2 Control App.pdb
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\BrandonPotter.XBox.dll
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\SharpDX.dll
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\SharpDX.XInput.dll
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\SharpDX.xml
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\SharpDX.XInput.xml
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\obj\Debug\Teo2 Control App.exe
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\obj\Debug\Teo2 Control App.pdb
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Arrabbiato.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Bravo.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Ciao.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Felice.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\GiochiConMe.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Grande.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\No.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Pianto.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Risata.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Si.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Spaventato.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\voice\Triste.WAV
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\XML\config.xml
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\XML\default.xml
