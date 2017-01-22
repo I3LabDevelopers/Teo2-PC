@@ -1,0 +1,10 @@
+<preset>
+  <up>voice/CiaoSonoTeo.wav</up>
+  <down>voice/ComeTiChiami.wav</down>
+  <right>voice/GiochiConMe.wav</right>
+  <left>voice/PiacereDiConoscerti.wav</left>
+  <r_shoulder>voice/Pianto.wav</r_shoulder>
+  <l_shoulder>voice/Risata.wav</l_shoulder>
+  <r_trigger>voice/No.wav</r_trigger>
+  <l_trigger>voice/Si.wav</l_trigger>
+</preset>

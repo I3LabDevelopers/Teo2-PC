@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preset>
+  <left>voice/Pianto.WAV</left>
+  <right>voice/Risata.WAV</right>
+  <up>voice/Grande.WAV</up>
+  <down>voice/Risata.WAV</down>
+  <r_trigger>voice/No.WAV</r_trigger>
+  <l_trigger>voice/Bravo.WAV</l_trigger>
+  <r_shoulder>voice/Bravo.WAV</r_shoulder>
+  <l_shoulder>voice/Risata.WAV</l_shoulder>
+</preset>

@@ -1,0 +1,77 @@
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\Teo2 Control App.exe.config
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control App\Teo2 Control App\obj\Debug\Teo2 Control App.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control App\Teo2 Control App\obj\Debug\Teo2 Control App.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control App\Teo2 Control App\bin\Debug\Teo2 Control.exe.config
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\Teo2 Control.exe.config
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Arrabbiato.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Bravo.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Ciao.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Felice.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\GiochiConMe.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Grande.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\No.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Pianto.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Risata.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Si.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Spaventato.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\voice\Triste.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\XML\config.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\XML\default.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\Teo2 Control.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\Teo2 Control.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\BrandonPotter.XBox.dll
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.dll
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.XInput.dll
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.XInput.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\obj\Debug\Teo2 Control.csprojResolveAssemblyReference.cache
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\obj\Debug\Teo2 Control.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 Control\Teo2 Control\obj\Debug\Teo2 Control.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\Teo2 Control.exe.config
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\obj\Debug\Teo2 Control.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\obj\Debug\Teo2 Control.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Arrabbiato.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Bravo.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Ciao.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Felice.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\GiochiConMe.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Grande.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\No.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Pianto.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Risata.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Si.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Spaventato.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Triste.WAV
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\XML\commands.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\XML\config.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\XML\default.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\XML\greetings.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\XML\more_emotions.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\Teo2 Control.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\Teo2 Control.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\BrandonPotter.XBox.dll
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.dll
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.XInput.dll
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\SharpDX.XInput.xml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\obj\Debug\Teo2 Control.csprojResolveAssemblyReference.cache
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Aiuto.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\APresto.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\CeQualcuno.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\CheSorpresa.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\CiaoSonoTeo.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\ComeTiChiami.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\DoveSei.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\MiDispiace.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\MiRaccontiUnaStoria.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Noia.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Ok.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Perche.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\PiacereDiConoscerti.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Prego.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\SonoMoltoArrabbiato.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\SonoMoltoFelice.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Uff.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Wow.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\voice\Russata.wav
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Control\Teo2 Control\bin\Debug\XML\custom.xml

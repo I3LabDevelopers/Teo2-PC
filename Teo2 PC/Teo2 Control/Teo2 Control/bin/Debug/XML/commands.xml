@@ -1,0 +1,35 @@
+<!-- List of command that can be mapped to the Xbox controller -->
+<commands>
+  <command name="Aiuto" message="say aiuto" >voice/Aiuto.wav</command>
+  <command name="A presto" message="say a presto" >voice/APresto.wav</command>
+  <command name="Arrabbiato" message="say arrabbiato" >voice/Arrabbiato.wav</command>
+  <command name="Bravo" message="say bravo" >voice/Bravo.wav</command>
+  <command name="C'è qualcuno?" message="say ce qualcuno" >voice/CeQualcuno.wav</command>
+  <command name="Che sorpresa" message="say sorpresa" >voice/CheSorpresa.wav</command>
+  <command name="Ciao" message="say ciao" >voice/Ciao.wav</command>
+  <command name="Ciao sono Teo" message="say sono teo" >voice/CiaoSonoTeo.wav</command>
+  <command name="Come ti chiami?" message="say come ti chiami" >voice/ComeTiChiami.wav</command>
+  <command name="Dove sei?" message="say dove sei" >voice/DoveSei.wav</command>
+  <command name="Felice" message="say felice" >voice/Felice.wav</command>
+  <command name="Giochi con me?" message="say giochi" >voice/GiochiConMe.wav</command>
+  <command name="Grande" message="say grande" >voice/Grande.wav</command>
+  <command name="Grazie" message="say grazie" >voice/Grazie.wav</command>
+  <command name="Mi dispiace" message="say mi dispiace" >voice/MiDispiace.wav</command>
+  <command name="Mi racconti una storia?" message="say storia" >voice/MiRaccontiUnaStoria.wav</command>
+  <command name="No" message="say no" >voice/No.wav</command>
+  <command name="Noia" message="say noia" >voice/Noia.wav</command>
+  <command name="Ok" message="say ok" >voice/Ok.wav</command>
+  <command name="Perche?" message="say perche" >voice/Perche.wav</command>
+  <command name="Piacere di conoscerti" message="say piacere" >voice/PiacereDiConoscerti.wav</command>
+  <command name="Pianto" message="say pianto" >voice/Pianto.wav</command>
+  <command name="Prego" message="say prego" >voice/Prego.wav</command>
+  <command name="Risata" message="say risata" >voice/Risata.wav</command>
+  <command name="Si" message="say si" >voice/Si.wav</command>
+  <command name="Sono molto arrabbiato" message="say molto arrabbiato" >voice/SonoMoltoArrabbiato.wav</command>
+  <command name="Sono molto felice" message="say molto felice" >voice/SonoMoltoFelice.wav</command>
+  <command name="Spaventato" message="say spaventato" >voice/Spaventato.wav</command>
+  <command name="Triste" message="say triste" >voice/Triste.wav</command>
+  <command name="Uff" message="say uff" >voice/Uff.wav</command>
+  <command name="Wow" message="say wow" >voice/Wow.wav</command>
+  <command name="Russata" message="say russata" >voice/Russata.wav</command>
+</commands>

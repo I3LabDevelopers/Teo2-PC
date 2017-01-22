@@ -1,0 +1,10 @@
+<preset>
+  <up>voice/Arrabbiato.wav</up>
+  <down>voice/Uff.wav</down>
+  <right>voice/Wow.wav</right>
+  <left>voice/Spaventato.wav</left>
+  <r_shoulder>voice/Pianto.wav</r_shoulder>
+  <l_shoulder>voice/Risata.wav</l_shoulder>
+  <r_trigger>voice/No.wav</r_trigger>
+  <l_trigger>voice/Si.wav</l_trigger>
+</preset>

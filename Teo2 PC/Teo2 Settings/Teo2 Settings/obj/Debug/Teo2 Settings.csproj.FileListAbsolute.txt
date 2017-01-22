@@ -1,0 +1,55 @@
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\Teo2 Settings.exe.config
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\Teo2 Settings.exe
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\Teo2 Settings.pdb
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.csprojResolveAssemblyReference.cache
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\MainWindow.g.cs
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\App.g.cs
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings_MarkupCompile.cache
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings_MarkupCompile.lref
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\MainWindow.baml
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.g.resources
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2_Settings.Properties.Resources.resources
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.csproj.GenerateResource.Cache
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.exe
+c:\users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.pdb
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\CustomPreset.g.cs
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\PresetSelection.g.cs
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\CustomPreset.baml
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\PresetSelection.baml
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\more_emotions.png
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings_Content.g.cs
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\custom_preset.png
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\default.png
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\default_small.png
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\greetings.png
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\greetings_small.png
+C:\Users\ricca\onedrive\documenti\visual studio 2015\Projects\Teo2 Settings\Teo2 Settings\bin\Debug\images\more_emotions_small.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\custom_preset.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\default.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\default_small.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\greetings.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\greetings_small.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\more_emotions_small.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\Teo2 Settings.exe.config
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\Teo2 Settings.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\Teo2 Settings.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\ShowPreset.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\CustomPreset.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\MainWindow.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\PresetSelection.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\App.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings_Content.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings_MarkupCompile.cache
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings_MarkupCompile.lref
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\ShowPreset.baml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\CustomPreset.baml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\MainWindow.baml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\PresetSelection.baml
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.g.resources
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2_Settings.Properties.Resources.resources
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.csproj.GenerateResource.Cache
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.exe
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.pdb
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\bin\Debug\images\more_emotions.png
+C:\Users\ricca\OneDrive\Documenti\Visual Studio 2015\Projects\Teo2 PC\Teo2 Settings\Teo2 Settings\obj\Debug\Teo2 Settings.csprojResolveAssemblyReference.cache
