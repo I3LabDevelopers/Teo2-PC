@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO.Ports;
 using System.Windows.Forms;
 using System.Xml.Linq;
+using System.Globalization;
 
 namespace Prototype1Controller
 {

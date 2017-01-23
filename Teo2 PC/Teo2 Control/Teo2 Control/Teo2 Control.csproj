@@ -183,6 +183,7 @@
     </Content>
     <Content Include="XML\config.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="XML\custom.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

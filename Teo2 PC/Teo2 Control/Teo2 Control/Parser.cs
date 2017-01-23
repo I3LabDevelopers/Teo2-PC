@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace Prototype1Controller
 {
@@ -186,11 +187,18 @@ namespace Prototype1Controller
             command = command.Split('M')[1];
             string[] comm_args = command.Split(' ');
 
-            double x = ParseMotorSpeed(comm_args[0], 1.4, 1);           // Strafe parsing
-            double y = ParseMotorSpeed(comm_args[1], -2, -1);           // Forward parsing
-            double z = ParseMotorSpeed(comm_args[2], -4, -3);           // Angular parsing
+            // Strafe parsing
+            double x = ParseMotorSpeed(comm_args[0], Convert.ToDouble(Program.config["strafe_fast"]),
+                Convert.ToDouble(Program.config["strafe_slow"]));
+            // Forward parsing
+            double y = ParseMotorSpeed(comm_args[1], Convert.ToDouble(Program.config["forward_fast"]),
+                Convert.ToDouble(Program.config["forward_slow"]));
+            // Angular parsing        
+            double z = ParseMotorSpeed(comm_args[2], Convert.ToDouble(Program.config["angular_fast"]),
+                Convert.ToDouble(Program.config["angular_slow"]));          
 
-            output_buffer.Push("move " + x + " " + y + " " + z);
+            output_buffer.Push("move " + x.ToString(CultureInfo.InvariantCulture) + " " +
+                y.ToString(CultureInfo.InvariantCulture) + " " + z.ToString(CultureInfo.InvariantCulture));
             OnCommandParsed(EventArgs.Empty);
         }
 
