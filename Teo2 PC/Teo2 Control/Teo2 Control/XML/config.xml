@@ -14,4 +14,10 @@
 	<sad>voice/Triste.WAV</sad>
 	<angry>voice/Arrabbiato.WAV</angry>
 	<scared>voice/Spaventato.WAV</scared>
+  <forward_fast>-2</forward_fast>
+  <forward_slow>-1,5</forward_slow>
+  <strafe_fast>1,5</strafe_fast>
+  <strafe_slow>1,2</strafe_slow>
+  <angular_fast>-6</angular_fast>
+  <angular_slow>-4</angular_slow>
 </config>
