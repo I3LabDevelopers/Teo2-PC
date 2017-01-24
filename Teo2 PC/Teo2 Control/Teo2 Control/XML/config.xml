@@ -1,0 +1,17 @@
+<!-- Configuration variables which are independent from the selected preset -->
+<config>
+	<selected_preset>default.xml</selected_preset>
+	<diagonal_mapping>true</diagonal_mapping>			<!-- HAS to be true or false   -->
+	<ready_message>ready</ready_message>
+  <idle_message>idle</idle_message>
+  <end_of_sound_message>endofsound</end_of_sound_message>
+  <end_motion>end motion</end_motion>
+  <auto_on_message>auto on</auto_on_message>
+  <auto_off_message>auto off</auto_off_message>
+	<reconnection_time>5</reconnection_time>
+	<motion_block_timeout>3</motion_block_timeout>
+	<happy>voice/Felice.WAV</happy>
+	<sad>voice/Triste.WAV</sad>
+	<angry>voice/Arrabbiato.WAV</angry>
+	<scared>voice/Spaventato.WAV</scared>
+</config>

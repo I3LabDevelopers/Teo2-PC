@@ -1,0 +1,1 @@
+This folder simulates the Teo2 Control program folder, but it actually contains only the XML files. Check the deployment view for more details about the path of each file
