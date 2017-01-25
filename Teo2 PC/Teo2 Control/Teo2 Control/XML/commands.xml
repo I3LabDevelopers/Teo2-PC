@@ -24,6 +24,7 @@
   <command name="Pianto" message="say pianto" >voice/Pianto.wav</command>
   <command name="Prego" message="say prego" >voice/Prego.wav</command>
   <command name="Risata" message="say risata" >voice/Risata.wav</command>
+  <command name="Russata" message="say russata" >voice/Russata.wav</command>
   <command name="Si" message="say si" >voice/Si.wav</command>
   <command name="Sono molto arrabbiato" message="say molto arrabbiato" >voice/SonoMoltoArrabbiato.wav</command>
   <command name="Sono molto felice" message="say molto felice" >voice/SonoMoltoFelice.wav</command>
